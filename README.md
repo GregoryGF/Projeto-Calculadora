@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+[![author](https://img.shields.io/badge/author-gregoryfroehlich-red.svg)](https://www.linkedin.com/in/gregory-froehlich-0b799b219/)
+# Calculadora com React
+
+<divalign="center">
+  <img src="" >
+</div>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
